@@ -10,7 +10,7 @@ Its a game for two:
 The player can guess the word by typing each letter at a time.<br>
 If he is correct (the letter exists in the word), the letter will reveal itself in all of its instances in the word.<br>
 If he is wrong (the letter doesnt exists in the word) - The hanging man will get closer to dying, for example:
-- Put his head around the rope
+- Put the rope around his head
 - Read his will
 - Stand on the platform
 and so on.
